@@ -3,7 +3,7 @@
 > Einstiegs-Tech-Jobs für Absolventen und Berufseinsteiger (Junior, New Grad) — Informatik, Software, Data & Engineering in Deutschland, Österreich und der Schweiz. **Täglich automatisch aktualisiert.**
 > A daily-updated list of new-grad and junior tech roles (software, data, engineering) across Germany, Austria and Switzerland — for graduates starting their career.
 
-**84 offene Tech-Einstiegsjobs** · **36 Unternehmen** · aktualisiert **2026-07-13**
+**81 offene Tech-Einstiegsjobs** · **32 Unternehmen** · aktualisiert **2026-07-14**
 
 ## In 10 Sekunden bewerben
 Fülle jede Bewerbung automatisch aus und erstelle einen passenden, ATS-geprüften Lebenslauf mit der [**Careerkit Extension →**](https://careerkit.me/de?utm_source=github&utm_campaign=absolventen-tech-jobs-dach)
@@ -34,7 +34,7 @@ _Typen: **Absolvent** (New Grad) · **Junior** — nur Tech (Informatik, Softwar
 | [Trainee IT Consulting - Security w/m/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003096682-S) | Computacenter AG & Co. oHG | Junior | vor 56d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003096682-S) |
 | [Trainee Technischer Vertrieb (Institutional) \| Early Career Sales (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282118-S) | Ecolab Deutschland | Junior | vor 30d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282118-S) |
 
-## Other DACH (13)
+## Other DACH (14)
 
 | Rolle | Unternehmen | Typ | Gepostet | |
 |---|---|---|---|---|
@@ -45,11 +45,12 @@ _Typen: **Absolvent** (New Grad) · **Junior** — nur Tech (Informatik, Softwar
 | [Absolvent Konstruktion & Entwicklung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14603-13793383-S) | Oehmichen & Bürgers Industrieplanung GmbH | Absolvent | vor 12d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=oehmichen-b-rgers-industrieplanung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14603-13793383-S) |
 | [Berufseinstieg Softwareentwicklung für Absolvent:innen](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-36f73e3a_JB5185459-S) | zollsoft GmbH | Absolvent | vor 14d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=zollsoft-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13635-36f73e3a_JB5185459-S) |
 | [Trainee SAP - IT & Digitalization (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-11166063-S) | cbs Corporate Business Solutions Unternehmensberatung GmbH | Junior | vor 42d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=cbs-corporate-business-solutions-unternehmensberatung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12814-11166063-S) |
+| [Trainee IT Consulting - Security w/m/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003096682-S) | Computacenter AG & Co. oHG | Junior | vor 56d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003096682-S) |
 | [Trainee Technischer Vertrieb (Institutional) \| Early Career Sales (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282118-S) | Ecolab Deutschland | Junior | vor 30d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282118-S) |
 | [Trainee Technischer Vertrieb (Food Retails Services) \| Early Career Sales (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282119-S) | Ecolab Deutschland | Junior | vor 30d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282119-S) |
 | [Trainee IT (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-229107-S) | Finanz Informatik | Junior | vor 11d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-229107-S) |
 | [Trainee IT (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203207-S) | Finanz Informatik GmbH & Co. KG | Junior | vor 20d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203207-S) |
-| [(Junior) Proposal Engineer (m/f/d)](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101) | Isar Aerospace | Junior | vor 3d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101) |
+| [(Junior) Proposal Engineer (m/f/d)](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101) | Isar Aerospace | Junior | vor 4d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101) |
 | [Trainee IT (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-298301-S) | ivv Informationsverarbeitung für Versicherungen | Junior | vor 2d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ivv-informationsverarbeitung-f-r-versicherungen&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-298301-S) |
 
 ## Munich (10)
@@ -64,7 +65,7 @@ _Typen: **Absolvent** (New Grad) · **Junior** — nur Tech (Informatik, Softwar
 | [Hochschulabsolvent - Berufseinsteiger als IT-Berater / Software-Entwickler (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S) | PTA | Absolvent | vor 90d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S) |
 | [Hochschulabsolvent - Berufseinsteiger als IT-Berater / Software-Entwickler (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S) | PTA GmbH | Absolvent | vor 6d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S) |
 | [Trainee IT System Engineer (m/w/d) Security / Data Center / Collaboration](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S) | avodaq | Junior | vor 11d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S) |
-| [Junior DevOps Engineer (m/f/d)](https://flix.careers/job/8620664002?gh_jid=8620664002) | Flix | Junior | vor 7d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620664002%3Fgh_jid%3D8620664002) |
+| [Junior DevOps Engineer (m/f/d)](https://flix.careers/job/8620664002?gh_jid=8620664002) | Flix | Junior | vor 8d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620664002%3Fgh_jid%3D8620664002) |
 | [Trainee - Smart Manufacturing & Engineering (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308680-S) | Tata Consultancy Services Deutschland GmbH | Junior | vor 6d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=tata-consultancy-services-deutschland-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308680-S) |
 
 ## Berlin (9)
@@ -79,7 +80,7 @@ _Typen: **Absolvent** (New Grad) · **Junior** — nur Tech (Informatik, Softwar
 | [Hochschulabsolvent - Berufseinsteiger als IT-Berater / Software-Entwickler (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S) | PTA GmbH | Absolvent | vor 6d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S) |
 | [Berufseinstieg Softwareentwicklung für Absolvent:innen](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-36f73e3a_JB5185459-S) | zollsoft GmbH | Absolvent | vor 14d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=zollsoft-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13635-36f73e3a_JB5185459-S) |
 | [Trainee IT System Engineer (m/w/d) Security / Data Center / Collaboration](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S) | avodaq | Junior | vor 11d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S) |
-| [Junior DevOps Engineer (m/f/d)](https://flix.careers/job/8620662002?gh_jid=8620662002) | Flix | Junior | vor 7d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620662002%3Fgh_jid%3D8620662002) |
+| [Junior DevOps Engineer (m/f/d)](https://flix.careers/job/8620662002?gh_jid=8620662002) | Flix | Junior | vor 8d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620662002%3Fgh_jid%3D8620662002) |
 
 ## Cologne (8)
 
@@ -136,25 +137,11 @@ _Typen: **Absolvent** (New Grad) · **Junior** — nur Tech (Informatik, Softwar
 | [Technischer Trainee (w/m/d) – Versorgungs- und Gebäudetechnik](https://www.arbeitsagentur.de/jobsuche/jobdetail/18041-0065597106-S) | Rud. Otto Meyer Technik GmbH & Co. KG, Service & FM NL Bremen/ Hannover | Junior | vor 18d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=rud-otto-meyer-technik-gmbh-co-kg-service-fm-nl-bremen-hannover&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F18041-0065597106-S) |
 | [Trainee Projekt- und Bauleiter (Techniker/ Meister/ Ingenieur) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002413781-S) | Sprint Sanierung GmbH | Junior | vor 181d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sprint-sanierung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002413781-S) |
 
-## Graz (2)
-
-| Rolle | Unternehmen | Typ | Gepostet | |
-|---|---|---|---|---|
-| [IT Techniker / IT-HTL Absolvent (m/w/d)](https://www.adzuna.at/land/ad/5769143355?se=_vTrscB-8RGgX8pGgfOrZg&utm_medium=api&utm_source=8efdd1b9&v=D4D01862024A18BFEAA96FD6E83E44D600E8D2E7) | TODAY Experts GmbH | Absolvent | vor 24d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=today-experts-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5769143355%3Fse%3D_vTrscB-8RGgX8pGgfOrZg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DD4D01862024A18BFEAA96FD6E83E44D600E8D2E7) |
-| [Junior Project Engineer (m/f/d)](https://www.adzuna.at/land/ad/5756979110?se=_vTrscB-8RGgX8pGgfOrZg&utm_medium=api&utm_source=8efdd1b9&v=ED7E98D7FDB1AE2BECB402DD0994AC5F8953D048) | VACE Engineering GmbH | Junior | vor 34d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=vace-engineering-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5756979110%3Fse%3D_vTrscB-8RGgX8pGgfOrZg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DED7E98D7FDB1AE2BECB402DD0994AC5F8953D048) |
-
-## Vienna (2)
-
-| Rolle | Unternehmen | Typ | Gepostet | |
-|---|---|---|---|---|
-| [HTL-Absolvent Maschinenbau / Mechatronik - starte durch im Engineering! (m/w/d)](https://www.adzuna.at/land/ad/5734934698?se=BEfpscB-8RGfuPZ_H4hNCg&utm_medium=api&utm_source=8efdd1b9&v=FD291254CC5D68F0D56F83AB140B257FF0D1EE2B) | teampool engineering gmbh | Absolvent | vor 54d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=teampool-engineering-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5734934698%3Fse%3DBEfpscB-8RGfuPZ_H4hNCg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DFD291254CC5D68F0D56F83AB140B257FF0D1EE2B) |
-| [Junior Consultant Data Transformation](https://www.adzuna.at/land/ad/5766534828?se=BEfpscB-8RGfuPZ_H4hNCg&utm_medium=api&utm_source=8efdd1b9&v=9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C) | KPMG Österreich | Junior | vor 26d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=kpmg-sterreich&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5766534828%3Fse%3DBEfpscB-8RGfuPZ_H4hNCg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C) |
-
 ## Geneva (1)
 
 | Rolle | Unternehmen | Typ | Gepostet | |
 |---|---|---|---|---|
-| [Graduate Software Engineer](https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0) | Sonar | Absolvent | vor 7d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sonar&url=https%3A%2F%2Fjobs.lever.co%2Fsonarsource%2Fdfb8492a-8d96-4033-9c7b-e87dfe1b07b0) |
+| [Graduate Software Engineer](https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0) | Sonar | Absolvent | vor 8d | [Bewerben](https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sonar&url=https%3A%2F%2Fjobs.lever.co%2Fsonarsource%2Fdfb8492a-8d96-4033-9c7b-e87dfe1b07b0) |
 
 ---
-<sub>Auto-generiert für Tech-Absolventen und Berufseinsteiger im DACH-Raum. Powered by [Careerkit](https://careerkit.me/de?utm_source=github&utm_campaign=absolventen-tech-jobs-dach). Auto-updated daily from the [DACH early-career job list](https://github.com/heynish/werkstudent-praktikum-jobs) (public ATS APIs + Arbeitsagentur + Adzuna). Upstream snapshot: 2026-07-13.</sub>
+<sub>Auto-generiert für Tech-Absolventen und Berufseinsteiger im DACH-Raum. Powered by [Careerkit](https://careerkit.me/de?utm_source=github&utm_campaign=absolventen-tech-jobs-dach). Auto-updated daily from the [DACH early-career job list](https://github.com/heynish/werkstudent-praktikum-jobs) (public ATS APIs + Arbeitsagentur + Adzuna). Upstream snapshot: 2026-07-14.</sub>
