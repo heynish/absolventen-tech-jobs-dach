@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T07:33:47.621Z",
-  "count": 90,
+  "generated_at": "2026-07-18T07:14:51.322Z",
+  "count": 85,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-07-17T07:08:32.467Z",
+  "upstream_generated_at": "2026-07-18T06:51:52.997Z",
   "roles": [
     {
       "company": "DIS AG",
@@ -12,7 +12,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-06-10",
-      "posted_days_ago": 37,
+      "posted_days_ago": 38,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12633-5de897b5_JB5167767-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=dis-ag&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12633-5de897b5_JB5167767-S"
     },
@@ -23,7 +23,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-262715-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=metrics&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-262715-S"
     },
@@ -34,7 +34,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -45,7 +45,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -56,7 +56,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-05-27",
-      "posted_days_ago": 51,
+      "posted_days_ago": 52,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
     },
@@ -67,7 +67,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -78,7 +78,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-06-30",
-      "posted_days_ago": 17,
+      "posted_days_ago": 18,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-36f73e3a_JB5185459-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=zollsoft-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13635-36f73e3a_JB5185459-S"
     },
@@ -89,7 +89,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
     },
@@ -100,7 +100,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-06T08:04:48-04:00",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://flix.careers/job/8620662002?gh_jid=8620662002",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620662002%3Fgh_jid%3D8620662002"
     },
@@ -111,7 +111,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003396152-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=rundfunk-berlin-brandenburg-ad-r&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003396152-S"
     },
@@ -122,7 +122,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -133,7 +133,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -144,7 +144,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14603-13804040-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=oehmichen-b-rgers-industrieplanung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14603-13804040-S"
     },
@@ -155,7 +155,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -166,7 +166,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -177,7 +177,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-242539-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=andagon&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-242539-S"
     },
@@ -188,7 +188,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-06-01",
-      "posted_days_ago": 46,
+      "posted_days_ago": 47,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-6edd7278212b4d5b85d-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-6edd7278212b4d5b85d-S"
     },
@@ -199,7 +199,7 @@
       "city": "Cologne",
       "location": "Köln",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282119-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282119-S"
     },
@@ -210,7 +210,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14603-13804040-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=oehmichen-b-rgers-industrieplanung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14603-13804040-S"
     },
@@ -221,7 +221,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -232,7 +232,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -243,7 +243,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-06-01",
-      "posted_days_ago": 46,
+      "posted_days_ago": 47,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-0fe1a408199544da90a-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-0fe1a408199544da90a-S"
     },
@@ -254,7 +254,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282119-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282119-S"
     },
@@ -265,7 +265,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-05-21",
-      "posted_days_ago": 57,
+      "posted_days_ago": 58,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-43962225-520-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=vodafone-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F17102-43962225-520-S"
     },
@@ -276,7 +276,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-03-10",
-      "posted_days_ago": 129,
+      "posted_days_ago": 130,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002740738-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=amaxo-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002740738-S"
     },
@@ -287,7 +287,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -298,20 +298,9 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
-    },
-    {
-      "company": "Computacenter AG & Co. oHG",
-      "title": "Trainee IT Service Management w/m/d",
-      "type": "Junior",
-      "city": "Frankfurt",
-      "location": "Frankfurt am Main",
-      "posted": "2026-05-27",
-      "posted_days_ago": 51,
-      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003135106-S",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003135106-S"
     },
     {
       "company": "Finanz Informatik",
@@ -320,7 +309,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-229107-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-229107-S"
     },
@@ -331,7 +320,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-06-24",
-      "posted_days_ago": 23,
+      "posted_days_ago": 24,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203207-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203207-S"
     },
@@ -342,7 +331,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308681-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=tata-consultancy-services-deutschland-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308681-S"
     },
@@ -353,7 +342,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-06-26",
-      "posted_days_ago": 21,
+      "posted_days_ago": 22,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003294820-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=wisag-geb-udetechnik-hessen-mitte-gmbh-co-kg-nl-frankfurt&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003294820-S"
     },
@@ -364,7 +353,7 @@
       "city": "Geneva",
       "location": "Geneva",
       "posted": "2026-07-06T13:28:49.640Z",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sonar&url=https%3A%2F%2Fjobs.lever.co%2Fsonarsource%2Fdfb8492a-8d96-4033-9c7b-e87dfe1b07b0"
     },
@@ -375,9 +364,20 @@
       "city": "Graz",
       "location": "Graz, Steiermark",
       "posted": "2026-06-19T10:29:51Z",
-      "posted_days_ago": 28,
-      "raw_url": "https://www.adzuna.at/land/ad/5769143355?se=DsPiUK6B8RGBgLcYqW5wtQ&utm_medium=api&utm_source=8efdd1b9&v=D4D01862024A18BFEAA96FD6E83E44D600E8D2E7",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=today-experts-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5769143355%3Fse%3DDsPiUK6B8RGBgLcYqW5wtQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DD4D01862024A18BFEAA96FD6E83E44D600E8D2E7"
+      "posted_days_ago": 29,
+      "raw_url": "https://www.adzuna.at/land/ad/5769143355?se=pksAKHWC8RGF5LNal_k3gA&utm_medium=api&utm_source=8efdd1b9&v=D4D01862024A18BFEAA96FD6E83E44D600E8D2E7",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=today-experts-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5769143355%3Fse%3DpksAKHWC8RGF5LNal_k3gA%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DD4D01862024A18BFEAA96FD6E83E44D600E8D2E7"
+    },
+    {
+      "company": "DCCS GmbH",
+      "title": "Junior Robotics Engineer Robot Learning (m/w/x)",
+      "type": "Junior",
+      "city": "Graz",
+      "location": "Graz, Steiermark",
+      "posted": "2026-07-14T06:44:09Z",
+      "posted_days_ago": 4,
+      "raw_url": "https://www.adzuna.at/land/ad/5799483844?se=cFkFKHWC8RG64bpm-6Bw6w&utm_medium=api&utm_source=8efdd1b9&v=D8AB013263D1369019EF70EC1456517A513964D6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=dccs-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5799483844%3Fse%3DcFkFKHWC8RG64bpm-6Bw6w%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DD8AB013263D1369019EF70EC1456517A513964D6"
     },
     {
       "company": "mgm technology partners",
@@ -386,7 +386,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -397,7 +397,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -408,7 +408,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-05-27",
-      "posted_days_ago": 51,
+      "posted_days_ago": 52,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
     },
@@ -419,7 +419,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -430,7 +430,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -441,7 +441,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-05-11",
-      "posted_days_ago": 67,
+      "posted_days_ago": 68,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-459181172-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=siemens-energy-global-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15170-459181172-S"
     },
@@ -452,7 +452,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-04-17",
-      "posted_days_ago": 91,
+      "posted_days_ago": 92,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-454885177-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=siemens-energy-global-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15170-454885177-S"
     },
@@ -463,7 +463,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-02-09",
-      "posted_days_ago": 158,
+      "posted_days_ago": 159,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-443084913-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=siemens-energy-global-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15170-443084913-S"
     },
@@ -474,7 +474,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-02-09",
-      "posted_days_ago": 158,
+      "posted_days_ago": 159,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-443084997-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=siemens-energy-global-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15170-443084997-S"
     },
@@ -485,7 +485,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-06-30",
-      "posted_days_ago": 17,
+      "posted_days_ago": 18,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-36f73e3a_JB5185459-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=zollsoft-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13635-36f73e3a_JB5185459-S"
     },
@@ -496,7 +496,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12953-AW_615979LS-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=academic-work-germany-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12953-AW_615979LS-S"
     },
@@ -507,7 +507,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-05-17",
-      "posted_days_ago": 61,
+      "posted_days_ago": 62,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-165482-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=andagon&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-165482-S"
     },
@@ -518,7 +518,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
     },
@@ -529,7 +529,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-13",
-      "posted_days_ago": 4,
+      "posted_days_ago": 5,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16818-100783376-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=best-practice-consulting&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F16818-100783376-S"
     },
@@ -540,7 +540,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-05-27",
-      "posted_days_ago": 51,
+      "posted_days_ago": 52,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003135106-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003135106-S"
     },
@@ -551,7 +551,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-05-19",
-      "posted_days_ago": 59,
+      "posted_days_ago": 60,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003096682-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003096682-S"
     },
@@ -562,7 +562,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282118-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282118-S"
     },
@@ -573,7 +573,7 @@
       "city": "Leipzig",
       "location": "Leipzig",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -584,7 +584,7 @@
       "city": "Leipzig",
       "location": "Leipzig",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -595,7 +595,7 @@
       "city": "Leipzig",
       "location": "Leipzig",
       "posted": "2026-06-01",
-      "posted_days_ago": 46,
+      "posted_days_ago": 47,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-a5f025e0ca0e43e59b6-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-a5f025e0ca0e43e59b6-S"
     },
@@ -606,7 +606,7 @@
       "city": "Leipzig",
       "location": "Leipzig",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282121-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282121-S"
     },
@@ -617,7 +617,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-13",
-      "posted_days_ago": 4,
+      "posted_days_ago": 5,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1574038-2-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=hypovereinsbank-unicredit-bank-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11070-1574038-2-S"
     },
@@ -628,7 +628,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-262715-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=metrics&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-262715-S"
     },
@@ -639,7 +639,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -650,7 +650,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -661,7 +661,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-05-27",
-      "posted_days_ago": 51,
+      "posted_days_ago": 52,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
     },
@@ -672,7 +672,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -683,7 +683,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -694,7 +694,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
     },
@@ -705,7 +705,7 @@
       "city": "Munich",
       "location": "Munich",
       "posted": "2026-07-06T08:06:10-04:00",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://flix.careers/job/8620664002?gh_jid=8620664002",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620664002%3Fgh_jid%3D8620664002"
     },
@@ -716,7 +716,7 @@
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308680-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=tata-consultancy-services-deutschland-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308680-S"
     },
@@ -727,7 +727,7 @@
       "city": "Other DACH",
       "location": "Bremen",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4879428395-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=griepenstroh-personalvermittlung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4879428395-S"
     },
@@ -738,7 +738,7 @@
       "city": "Other DACH",
       "location": "Bremen",
       "posted": "2026-02-07",
-      "posted_days_ago": 160,
+      "posted_days_ago": 161,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002563370-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=griepenstroh-personalvermittlung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002563370-S"
     },
@@ -749,7 +749,7 @@
       "city": "Other DACH",
       "location": "Nürnberg, Mittelfranken",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308341-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308341-S"
     },
@@ -760,7 +760,7 @@
       "city": "Other DACH",
       "location": "Nürnberg, Mittelfranken",
       "posted": "2026-07-02",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3008381782943201-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mgm-technology-partners-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11956-3008381782943201-S"
     },
@@ -771,7 +771,7 @@
       "city": "Other DACH",
       "location": "Dortmund",
       "posted": "2026-07-16",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14603-13804040-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=oehmichen-b-rgers-industrieplanung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14603-13804040-S"
     },
@@ -782,7 +782,7 @@
       "city": "Other DACH",
       "location": "Bremen",
       "posted": "2026-06-30",
-      "posted_days_ago": 17,
+      "posted_days_ago": 18,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-36f73e3a_JB5185459-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=zollsoft-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13635-36f73e3a_JB5185459-S"
     },
@@ -793,7 +793,7 @@
       "city": "Other DACH",
       "location": "Dortmund",
       "posted": "2026-06-02",
-      "posted_days_ago": 45,
+      "posted_days_ago": 46,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-11166063-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=cbs-corporate-business-solutions-unternehmensberatung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12814-11166063-S"
     },
@@ -804,7 +804,7 @@
       "city": "Other DACH",
       "location": "Hannover",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282118-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282118-S"
     },
@@ -815,7 +815,7 @@
       "city": "Other DACH",
       "location": "Dortmund",
       "posted": "2026-06-14",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-282119-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ecolab-deutschland&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-282119-S"
     },
@@ -826,7 +826,7 @@
       "city": "Other DACH",
       "location": "Hannover",
       "posted": "2026-07-03",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-229107-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-229107-S"
     },
@@ -837,7 +837,7 @@
       "city": "Other DACH",
       "location": "Hannover",
       "posted": "2026-06-24",
-      "posted_days_ago": 23,
+      "posted_days_ago": 24,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203207-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203207-S"
     },
@@ -848,7 +848,7 @@
       "city": "Other DACH",
       "location": "Ottobrunn, Bavaria, Germany",
       "posted": "2026-07-10T05:37:06-04:00",
-      "posted_days_ago": 7,
+      "posted_days_ago": 8,
       "raw_url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101"
     },
@@ -859,7 +859,7 @@
       "city": "Other DACH",
       "location": "Hannover",
       "posted": "2026-07-12",
-      "posted_days_ago": 5,
+      "posted_days_ago": 6,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-298301-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=ivv-informationsverarbeitung-f-r-versicherungen&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-298301-S"
     },
@@ -870,7 +870,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart",
       "posted": "2026-04-15",
-      "posted_days_ago": 93,
+      "posted_days_ago": 94,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-55076-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-55076-S"
     },
@@ -881,7 +881,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart",
       "posted": "2026-07-08",
-      "posted_days_ago": 9,
+      "posted_days_ago": 10,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349859-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pta-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003349859-S"
     },
@@ -892,7 +892,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart",
       "posted": "2026-06-26",
-      "posted_days_ago": 21,
+      "posted_days_ago": 22,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18041-0065597106-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=rud-otto-meyer-technik-gmbh-co-kg-service-fm-nl-bremen-hannover&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F18041-0065597106-S"
     },
@@ -903,7 +903,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart",
       "posted": "2026-01-14",
-      "posted_days_ago": 184,
+      "posted_days_ago": 185,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002413781-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sprint-sanierung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002413781-S"
     },
@@ -914,9 +914,9 @@
       "city": "Vienna",
       "location": "Wien, Österreich",
       "posted": "2026-07-16T18:38:53Z",
-      "posted_days_ago": 1,
-      "raw_url": "https://www.adzuna.at/land/ad/5803332231?se=zg7mUK6B8RGtkPw-jY9-8Q&utm_medium=api&utm_source=8efdd1b9&v=9A43FBF7890DF7BCD36DB6088DC3E60BA9DC2284",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=talentbird-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5803332231%3Fse%3Dzg7mUK6B8RGtkPw-jY9-8Q%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9A43FBF7890DF7BCD36DB6088DC3E60BA9DC2284"
+      "posted_days_ago": 2,
+      "raw_url": "https://www.adzuna.at/land/ad/5803332231?se=3DkJKHWC8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=8efdd1b9&v=9A43FBF7890DF7BCD36DB6088DC3E60BA9DC2284",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=talentbird-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5803332231%3Fse%3D3DkJKHWC8RG-zvMsQ_EZNQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9A43FBF7890DF7BCD36DB6088DC3E60BA9DC2284"
     },
     {
       "company": "teampool engineering gmbh",
@@ -925,9 +925,9 @@
       "city": "Vienna",
       "location": "Wien, Österreich",
       "posted": "2026-05-20T10:12:32Z",
-      "posted_days_ago": 58,
-      "raw_url": "https://www.adzuna.at/land/ad/5734934698?se=zg7mUK6B8RGtkPw-jY9-8Q&utm_medium=api&utm_source=8efdd1b9&v=FD291254CC5D68F0D56F83AB140B257FF0D1EE2B",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=teampool-engineering-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5734934698%3Fse%3Dzg7mUK6B8RGtkPw-jY9-8Q%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DFD291254CC5D68F0D56F83AB140B257FF0D1EE2B"
+      "posted_days_ago": 59,
+      "raw_url": "https://www.adzuna.at/land/ad/5734934698?se=3DkJKHWC8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=8efdd1b9&v=FD291254CC5D68F0D56F83AB140B257FF0D1EE2B",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=teampool-engineering-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5734934698%3Fse%3D3DkJKHWC8RG-zvMsQ_EZNQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DFD291254CC5D68F0D56F83AB140B257FF0D1EE2B"
     },
     {
       "company": "KPMG Österreich",
@@ -936,64 +936,9 @@
       "city": "Vienna",
       "location": "Wien, Österreich",
       "posted": "2026-06-17T10:14:01Z",
-      "posted_days_ago": 30,
-      "raw_url": "https://www.adzuna.at/land/ad/5766534828?se=zg7mUK6B8RGtkPw-jY9-8Q&utm_medium=api&utm_source=8efdd1b9&v=9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=kpmg-sterreich&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5766534828%3Fse%3Dzg7mUK6B8RGtkPw-jY9-8Q%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C"
-    },
-    {
-      "company": "Freestar-Informatik AG",
-      "title": "Trainee IT Recruiting Assistant (a) 80-100% [Ref:2677]",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-07-01T16:43:35Z",
-      "posted_days_ago": 16,
-      "raw_url": "https://www.adzuna.ch/land/ad/5783850025?se=5sfiUK6B8RGuXZiVwx-Xkw&utm_medium=api&utm_source=8efdd1b9&v=871628FDB190869238E2DC2D4B5FDBB26BA6FEF7",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5783850025%3Fse%3D5sfiUK6B8RGuXZiVwx-Xkw%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D871628FDB190869238E2DC2D4B5FDBB26BA6FEF7"
-    },
-    {
-      "company": "Freestar-Informatik AG",
-      "title": "Trainee IT Recruiting Assistant 80-100% [Ref:2677]",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-07-01T16:47:24Z",
-      "posted_days_ago": 16,
-      "raw_url": "https://www.adzuna.ch/land/ad/5783858937?se=5sfiUK6B8RGuXZiVwx-Xkw&utm_medium=api&utm_source=8efdd1b9&v=09BCE1BB288DD4CADD82E84E6BAC0E605C6AABD6",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5783858937%3Fse%3D5sfiUK6B8RGuXZiVwx-Xkw%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D09BCE1BB288DD4CADD82E84E6BAC0E605C6AABD6"
-    },
-    {
-      "company": "Freestar-Informatik AG",
-      "title": "Trainee IT Recruiting (a) 80-100% [Ref:2244]",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-03-31T18:11:20Z",
-      "posted_days_ago": 108,
-      "raw_url": "https://www.adzuna.ch/land/ad/5684255858?se=5sfiUK6B8RGuXZiVwx-Xkw&utm_medium=api&utm_source=8efdd1b9&v=9A06CACD086A8BA8BD431FE28DFEC73202B50E15",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5684255858%3Fse%3D5sfiUK6B8RGuXZiVwx-Xkw%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9A06CACD086A8BA8BD431FE28DFEC73202B50E15"
-    },
-    {
-      "company": "PricewaterhouseCoopers",
-      "title": "Trainee Digital Assurance, IT Audit and Process Analytics (Financial Services)",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-07-12T23:27:46Z",
-      "posted_days_ago": 4,
-      "raw_url": "https://www.adzuna.ch/details/5798174056?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=pricewaterhousecoopers&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5798174056%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "VZ VermögensZentrum",
-      "title": "Finance trifft auf Engineering: Trainee-Programm beim VZ, 80-100%",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-07-09T23:32:05Z",
-      "posted_days_ago": 7,
-      "raw_url": "https://www.adzuna.ch/details/5794505878?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=vz-verm-genszentrum&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5794505878%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+      "posted_days_ago": 31,
+      "raw_url": "https://www.adzuna.at/land/ad/5766534828?se=3DkJKHWC8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=8efdd1b9&v=9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=kpmg-sterreich&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5766534828%3Fse%3D3DkJKHWC8RG-zvMsQ_EZNQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C"
     }
   ]
 }
