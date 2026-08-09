@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T06:08:05.830Z",
+  "generated_at": "2026-08-09T06:09:39.309Z",
   "count": 9,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-08-08T05:33:44.756Z",
+  "upstream_generated_at": "2026-08-09T05:39:07.905Z",
   "roles": [
     {
       "company": "1KOMMA5°",
@@ -12,7 +12,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-02-24T11:03:38+00:00",
-      "posted_days_ago": 165,
+      "posted_days_ago": 166,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2542120",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2542120"
     },
@@ -23,7 +23,7 @@
       "city": "Berlin",
       "location": "Berlin, Berlin, Germany",
       "posted": "2026-08-05T11:43:32-04:00",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4928236101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4928236101"
     },
@@ -34,7 +34,7 @@
       "city": "Geneva",
       "location": "Geneva",
       "posted": "2026-07-06T13:28:49.640Z",
-      "posted_days_ago": 33,
+      "posted_days_ago": 34,
       "raw_url": "https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sonar&url=https%3A%2F%2Fjobs.lever.co%2Fsonarsource%2Fdfb8492a-8d96-4033-9c7b-e87dfe1b07b0"
     },
@@ -45,7 +45,7 @@
       "city": "Munich",
       "location": "Munich",
       "posted": "2026-07-23T11:44:06-04:00",
-      "posted_days_ago": 16,
+      "posted_days_ago": 17,
       "raw_url": "https://job-boards.greenhouse.io/konux/jobs/7687322003",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=konux&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fkonux%2Fjobs%2F7687322003"
     },
@@ -56,7 +56,7 @@
       "city": "Munich",
       "location": "Munich, Germany",
       "posted": "2026-08-04T03:52:41-04:00",
-      "posted_days_ago": 4,
+      "posted_days_ago": 5,
       "raw_url": "https://job-boards.eu.greenhouse.io/moia/jobs/4754893101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=moia&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fmoia%2Fjobs%2F4754893101"
     },
@@ -67,7 +67,7 @@
       "city": "Other DACH",
       "location": "Ottobrunn, Bavaria, Germany",
       "posted": "2026-08-05T04:43:16-04:00",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101"
     },
@@ -78,7 +78,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-07-01T16:47:24Z",
-      "posted_days_ago": 38,
+      "posted_days_ago": 39,
       "raw_url": "https://www.adzuna.ch/details/5783858937?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5783858937%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     },
@@ -89,7 +89,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-07-01T16:43:35Z",
-      "posted_days_ago": 38,
+      "posted_days_ago": 39,
       "raw_url": "https://www.adzuna.ch/details/5783850025?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5783850025%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     },
@@ -100,7 +100,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-03-31T18:11:20Z",
-      "posted_days_ago": 129,
+      "posted_days_ago": 130,
       "raw_url": "https://www.adzuna.ch/details/5684255858?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5684255858%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     }
