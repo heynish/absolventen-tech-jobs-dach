@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T06:58:12.258Z",
-  "count": 6,
+  "generated_at": "2026-08-14T06:54:58.761Z",
+  "count": 10,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-08-13T06:08:18.151Z",
+  "upstream_generated_at": "2026-08-14T06:07:19.005Z",
   "roles": [
     {
       "company": "1KOMMA5°",
@@ -12,9 +12,20 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-02-24T11:03:38+00:00",
-      "posted_days_ago": 170,
+      "posted_days_ago": 171,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2542120",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2542120"
+    },
+    {
+      "company": "Helsing",
+      "title": "Junior Security Engineer",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin; London; Munich",
+      "posted": "2026-08-13T04:51:24-04:00",
+      "posted_days_ago": 1,
+      "raw_url": "https://helsing.ai/jobs/4939402101?gh_jid=4939402101",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=helsing&url=https%3A%2F%2Fhelsing.ai%2Fjobs%2F4939402101%3Fgh_jid%3D4939402101"
     },
     {
       "company": "Raisin",
@@ -23,7 +34,7 @@
       "city": "Berlin",
       "location": "Berlin, Berlin, Germany",
       "posted": "2026-08-05T11:43:32-04:00",
-      "posted_days_ago": 8,
+      "posted_days_ago": 9,
       "raw_url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4928236101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4928236101"
     },
@@ -34,7 +45,7 @@
       "city": "Geneva",
       "location": "Geneva",
       "posted": "2026-07-06T13:28:49.640Z",
-      "posted_days_ago": 38,
+      "posted_days_ago": 39,
       "raw_url": "https://jobs.lever.co/sonarsource/dfb8492a-8d96-4033-9c7b-e87dfe1b07b0",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sonar&url=https%3A%2F%2Fjobs.lever.co%2Fsonarsource%2Fdfb8492a-8d96-4033-9c7b-e87dfe1b07b0"
     },
@@ -45,7 +56,7 @@
       "city": "Munich",
       "location": "Munich",
       "posted": "2026-07-23T11:44:06-04:00",
-      "posted_days_ago": 21,
+      "posted_days_ago": 22,
       "raw_url": "https://job-boards.greenhouse.io/konux/jobs/7687322003",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=konux&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fkonux%2Fjobs%2F7687322003"
     },
@@ -55,8 +66,8 @@
       "type": "Junior",
       "city": "Munich",
       "location": "Munich, Germany",
-      "posted": "2026-08-04T03:52:41-04:00",
-      "posted_days_ago": 9,
+      "posted": "2026-08-13T10:53:33-04:00",
+      "posted_days_ago": 1,
       "raw_url": "https://job-boards.eu.greenhouse.io/moia/jobs/4754893101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=moia&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fmoia%2Fjobs%2F4754893101"
     },
@@ -67,9 +78,42 @@
       "city": "Other DACH",
       "location": "Ottobrunn, Bavaria, Germany",
       "posted": "2026-08-11T03:10:22-04:00",
-      "posted_days_ago": 2,
+      "posted_days_ago": 3,
       "raw_url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4873721101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101"
+    },
+    {
+      "company": "Freestar-Informatik AG",
+      "title": "Trainee IT Recruiting (a) 80-100% [Ref:2244]",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-07-04T23:56:24Z",
+      "posted_days_ago": 40,
+      "raw_url": "https://www.adzuna.ch/details/5788280735?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5788280735%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+    },
+    {
+      "company": "Freestar-Informatik AG",
+      "title": "Trainee IT Recruiting Assistant (a) 80-100% [Ref:2677]",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-07-04T23:56:25Z",
+      "posted_days_ago": 40,
+      "raw_url": "https://www.adzuna.ch/details/5788280992?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5788280992%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+    },
+    {
+      "company": "Freestar-Informatik AG",
+      "title": "Trainee IT Recruiting Assistant 80-100% [Ref:2677]",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-07-01T16:47:24Z",
+      "posted_days_ago": 44,
+      "raw_url": "https://www.adzuna.ch/land/ad/5783858937?se=lpFnZ6aX8RGqcPXUPAGo3A&utm_medium=api&utm_source=8efdd1b9&v=09BCE1BB288DD4CADD82E84E6BAC0E605C6AABD6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5783858937%3Fse%3DlpFnZ6aX8RGqcPXUPAGo3A%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D09BCE1BB288DD4CADD82E84E6BAC0E605C6AABD6"
     }
   ]
 }
