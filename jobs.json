@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T09:52:19.404Z",
-  "count": 14,
+  "generated_at": "2026-09-05T09:14:50.109Z",
+  "count": 8,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-09-04T09:09:53.818Z",
+  "upstream_generated_at": "2026-09-05T08:42:04.242Z",
   "roles": [
     {
       "company": "1KOMMA5°",
@@ -12,7 +12,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-02-24T11:03:38+00:00",
-      "posted_days_ago": 192,
+      "posted_days_ago": 193,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2542120",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2542120"
     },
@@ -34,7 +34,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-09-01T10:55:07-04:00",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://n26.com/en-eu/careers/positions/8163939?gh_jid=8163939",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=n26&url=https%3A%2F%2Fn26.com%2Fen-eu%2Fcareers%2Fpositions%2F8163939%3Fgh_jid%3D8163939"
     },
@@ -45,7 +45,7 @@
       "city": "Berlin",
       "location": "Berlin, Berlin, Germany",
       "posted": "2026-08-18T04:43:16-04:00",
-      "posted_days_ago": 17,
+      "posted_days_ago": 18,
       "raw_url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4928236101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4928236101"
     },
@@ -56,20 +56,9 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-08-11T12:53:30+00:00",
-      "posted_days_ago": 24,
+      "posted_days_ago": 25,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2749999",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2749999"
-    },
-    {
-      "company": "Strabag AG",
-      "title": "Technische:r Trainee Beton-/ Brückenbau",
-      "type": "Junior",
-      "city": "Linz",
-      "location": "Linz, Oberösterreich",
-      "posted": "2026-08-22T18:11:43Z",
-      "posted_days_ago": 13,
-      "raw_url": "https://www.adzuna.at/details/5852697163?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=strabag-ag&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5852697163%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     },
     {
       "company": "Isar Aerospace",
@@ -78,7 +67,7 @@
       "city": "Other DACH",
       "location": "Ottobrunn, Bavaria, Germany",
       "posted": "2026-08-20T07:46:11-04:00",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4952519101"
     },
@@ -89,75 +78,20 @@
       "city": "Vienna",
       "location": "Wien, Österreich",
       "posted": "2026-08-25T07:15:21Z",
-      "posted_days_ago": 10,
+      "posted_days_ago": 11,
       "raw_url": "https://www.adzuna.at/details/5855011830?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=kppk-ziviltechniker-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5855011830%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     },
     {
-      "company": "Deloitte",
-      "title": "Trainee, AI Scientist (M&A, Deal Transformation and Post-Merger Integration Advisory)",
-      "type": "Junior",
+      "company": "KPMG",
+      "title": "Graduate Cyber Security",
+      "type": "Absolvent",
       "city": "Zurich",
       "location": "Zürich",
-      "posted": "2026-08-30T23:53:27Z",
-      "posted_days_ago": 4,
-      "raw_url": "https://www.adzuna.ch/details/5862441451?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=deloitte&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5862441451%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Deloitte AG",
-      "title": "Trainee, AI Scientist (M&A, Deal Transformation And Post-Merger Integration Advisory)",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-09-04T00:25:55Z",
-      "posted_days_ago": 0,
-      "raw_url": "https://www.adzuna.ch/details/5869594136?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=deloitte-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5869594136%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Freestar-Informatik AG",
-      "title": "Trainee IT Recruiting Assistant (a) 80-100% [Ref:2677]",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-06-30T22:41:32Z",
-      "posted_days_ago": 65,
-      "raw_url": "https://www.adzuna.ch/details/5782382834?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5782382834%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Job-Room",
-      "title": "Trainee, AI Scientist (M&A, Deal Transformation and Post-Merger Integration Advisory)",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-08-29T13:02:18Z",
-      "posted_days_ago": 6,
-      "raw_url": "https://www.adzuna.ch/details/5861035642?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=job-room&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5861035642%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "VZ VermögensZentrum",
-      "title": "Wo Finance Auf Engineering Trifft: Das Trainee-Programm Beim VZ",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-08-27T23:49:24Z",
-      "posted_days_ago": 7,
-      "raw_url": "https://www.adzuna.ch/details/5858699598?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=vz-verm-genszentrum&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5858699598%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Yoordi AG",
-      "title": "Trainee: Customer Success & QA Testing 100%",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zürich",
-      "posted": "2026-08-27T21:54:18Z",
-      "posted_days_ago": 7,
-      "raw_url": "https://www.adzuna.ch/details/5858655024?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=yoordi-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5858655024%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+      "posted": "2026-08-23T23:52:43Z",
+      "posted_days_ago": 12,
+      "raw_url": "https://www.adzuna.ch/details/5853882347?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=kpmg&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5853882347%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     }
   ]
 }
