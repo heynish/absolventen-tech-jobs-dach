@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T10:18:51.803Z",
-  "count": 7,
+  "generated_at": "2026-09-18T09:59:30.051Z",
+  "count": 12,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-09-17T09:42:48.639Z",
+  "upstream_generated_at": "2026-09-18T09:16:05.450Z",
   "roles": [
     {
       "company": "1KOMMA5°",
@@ -12,9 +12,20 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-09-17T07:57:12+00:00",
-      "posted_days_ago": 0,
+      "posted_days_ago": 1,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2800938",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2800938"
+    },
+    {
+      "company": "Flix",
+      "title": "Junior Data Engineer",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-09-18T04:36:07-04:00",
+      "posted_days_ago": 0,
+      "raw_url": "https://flix.careers/job/8785286002?gh_jid=8785286002",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8785286002%3Fgh_jid%3D8785286002"
     },
     {
       "company": "HelloFresh",
@@ -23,7 +34,7 @@
       "city": "Berlin",
       "location": "Berlin, Berlin, Germany",
       "posted": "2026-09-14T02:23:41-04:00",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=hellofresh&url=https%3A%2F%2Fcareers.hellofresh.com%2Fglobal%2Fen%2Fjob%2F8159710%3Fgh_jid%3D8159710"
     },
@@ -34,9 +45,20 @@
       "city": "Berlin",
       "location": "Berlin; London; Munich",
       "posted": "2026-09-16T02:23:21-04:00",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=helsing&url=https%3A%2F%2Fhelsing.ai%2Fjobs%2F4976480101%3Fgh_jid%3D4976480101"
+    },
+    {
+      "company": "N26",
+      "title": "Junior Data Analyst - Customer Identity",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-09-17T06:16:47-04:00",
+      "posted_days_ago": 1,
+      "raw_url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=n26&url=https%3A%2F%2Fn26.com%2Fen-eu%2Fcareers%2Fpositions%2F8127483%3Fgh_jid%3D8127483"
     },
     {
       "company": "N26",
@@ -45,7 +67,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-09-10T06:42:51-04:00",
-      "posted_days_ago": 7,
+      "posted_days_ago": 8,
       "raw_url": "https://n26.com/en-eu/careers/positions/8163939?gh_jid=8163939",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=n26&url=https%3A%2F%2Fn26.com%2Fen-eu%2Fcareers%2Fpositions%2F8163939%3Fgh_jid%3D8163939"
     },
@@ -56,7 +78,7 @@
       "city": "Berlin",
       "location": "Berlin, Barcelona",
       "posted": "2026-09-07T12:04:59-04:00",
-      "posted_days_ago": 10,
+      "posted_days_ago": 11,
       "raw_url": "https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=n26&url=https%3A%2F%2Fn26.com%2Fen-eu%2Fcareers%2Fpositions%2F8163941%3Fgh_jid%3D8163941"
     },
@@ -67,7 +89,7 @@
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-08-11T12:53:30+00:00",
-      "posted_days_ago": 37,
+      "posted_days_ago": 38,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2749999",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2749999"
     },
@@ -78,9 +100,42 @@
       "city": "Other DACH",
       "location": "Ottobrunn, Bavaria, Germany; Parsdorf, Bavaria, Germany",
       "posted": "2026-09-17T03:53:55-04:00",
-      "posted_days_ago": 0,
+      "posted_days_ago": 1,
       "raw_url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4952519101"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Trainee, AI Scientist (M&A, Deal Transformation And Post-Merger Integration Advisory)",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-09-14T00:29:26Z",
+      "posted_days_ago": 4,
+      "raw_url": "https://www.adzuna.ch/details/5882916839?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=deloitte&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5882916839%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+    },
+    {
+      "company": "Deloitte AG",
+      "title": "Trainee, AI Scientist (M&A, Deal Transformation And Post-Merger Integration Advisory)",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-09-04T00:25:55Z",
+      "posted_days_ago": 14,
+      "raw_url": "https://www.adzuna.ch/details/5869594136?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=deloitte-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5869594136%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+    },
+    {
+      "company": "Yoordi AG",
+      "title": "Trainee: Customer Success & QA Testing 100%",
+      "type": "Junior",
+      "city": "Zurich",
+      "location": "Zürich",
+      "posted": "2026-08-27T21:54:18Z",
+      "posted_days_ago": 21,
+      "raw_url": "https://www.adzuna.ch/details/5858655024?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=yoordi-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5858655024%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
     }
   ]
 }
