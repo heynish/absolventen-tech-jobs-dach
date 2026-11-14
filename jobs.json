@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T13:21:01.622Z",
-  "count": 69,
+  "generated_at": "2026-11-14T12:25:26.285Z",
+  "count": 65,
   "niche": "absolventen-tech-jobs-dach",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-11-13T12:43:05.279Z",
+  "upstream_generated_at": "2026-11-14T11:51:31.158Z",
   "roles": [
     {
       "company": "Drees & Sommer SE",
@@ -12,7 +12,7 @@
       "city": "Aachen",
       "location": "Aachen, NRW, Germany",
       "posted": "2026-08-20T13:41:31.983Z",
-      "posted_days_ago": 85,
+      "posted_days_ago": 86,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000144560729",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000144560729",
       "source": "smartrecruiters"
@@ -24,7 +24,7 @@
       "city": "Berlin",
       "location": "Berlin / Berlin (Remote)",
       "posted": "2026-09-17T07:57:12+00:00",
-      "posted_days_ago": 57,
+      "posted_days_ago": 58,
       "raw_url": "https://1komma5grad.jobs.personio.de/job/2800938",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=1komma5&url=https%3A%2F%2F1komma5grad.jobs.personio.de%2Fjob%2F2800938",
       "source": "personio"
@@ -36,7 +36,7 @@
       "city": "Berlin",
       "location": "Berlin, BE, Germany",
       "posted": "2026-05-26T09:07:33.687Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128433576",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128433576",
       "source": "smartrecruiters"
@@ -48,7 +48,7 @@
       "city": "Berlin",
       "location": "Berlin, Leipzig, , Germany",
       "posted": "2026-10-29T11:46:42.606Z",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158495801",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000158495801",
       "source": "smartrecruiters"
@@ -60,7 +60,7 @@
       "city": "Berlin",
       "location": "Germany - Berlin / Germany - Berlin",
       "posted": "2026-08-28T19:17:05.473Z",
-      "posted_days_ago": 77,
+      "posted_days_ago": 78,
       "raw_url": "https://jobs.lever.co/veeva/2355b29e-65d6-4dd8-be93-f5289960e05c",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=veeva&url=https%3A%2F%2Fjobs.lever.co%2Fveeva%2F2355b29e-65d6-4dd8-be93-f5289960e05c",
       "source": "lever"
@@ -72,7 +72,7 @@
       "city": "Berlin",
       "location": "Germany - Berlin / Germany - Berlin",
       "posted": "2026-03-24T18:54:15.454Z",
-      "posted_days_ago": 234,
+      "posted_days_ago": 235,
       "raw_url": "https://jobs.lever.co/veeva/e9ce0011-8df8-4d86-aeaf-658ba48122be",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=veeva&url=https%3A%2F%2Fjobs.lever.co%2Fveeva%2Fe9ce0011-8df8-4d86-aeaf-658ba48122be",
       "source": "lever"
@@ -84,7 +84,7 @@
       "city": "Bochum",
       "location": "Bochum, NRW, Germany",
       "posted": "2026-11-02T14:12:10.304Z",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000159152459",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000159152459",
       "source": "smartrecruiters"
@@ -96,7 +96,7 @@
       "city": "Cologne",
       "location": "Köln, NRW, Germany",
       "posted": "2026-10-19T07:20:13.225Z",
-      "posted_days_ago": 25,
+      "posted_days_ago": 26,
       "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000156241489",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000156241489",
       "source": "smartrecruiters"
@@ -108,7 +108,7 @@
       "city": "Cologne",
       "location": "Köln, NRW, Germany",
       "posted": "2026-08-11T07:05:20.189Z",
-      "posted_days_ago": 94,
+      "posted_days_ago": 95,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000142799961",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000142799961",
       "source": "smartrecruiters"
@@ -120,7 +120,7 @@
       "city": "Dortmund",
       "location": "Dortmund, NRW, Germany",
       "posted": "2026-08-20T13:26:12.475Z",
-      "posted_days_ago": 85,
+      "posted_days_ago": 86,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000144556689",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000144556689",
       "source": "smartrecruiters"
@@ -132,7 +132,7 @@
       "city": "Dresden",
       "location": "Dresden, SN, Germany",
       "posted": "2026-05-26T09:07:40.414Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128435929",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128435929",
       "source": "smartrecruiters"
@@ -144,7 +144,7 @@
       "city": "Dresden",
       "location": "Dresden, SN, Germany",
       "posted": "2026-05-26T09:04:11.374Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128434360",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128434360",
       "source": "smartrecruiters"
@@ -156,7 +156,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf, DE",
       "posted": "2026-11-10T09:33:50+01:00",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://huaweidusseldorf-1719303222.teamtailor.com/jobs/8694878-junior-system-test-engineer-m-f-d-graduate-program",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=huawei-europe&url=https%3A%2F%2Fhuaweidusseldorf-1719303222.teamtailor.com%2Fjobs%2F8694878-junior-system-test-engineer-m-f-d-graduate-program",
       "source": "teamtailor"
@@ -168,7 +168,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf, NRW, Germany",
       "posted": "2026-08-20T13:25:36.001Z",
-      "posted_days_ago": 85,
+      "posted_days_ago": 86,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000144556559",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000144556559",
       "source": "smartrecruiters"
@@ -179,8 +179,8 @@
       "type": "Junior",
       "city": "Essen",
       "location": "Essen, Germany",
-      "posted": "2026-11-04T12:42:40.148Z",
-      "posted_days_ago": 9,
+      "posted": "2026-11-04T11:51:04.123Z",
+      "posted_days_ago": 10,
       "raw_url": "https://rhe.wd3.myworkdayjobs.com/R1111/job/Essen-Germany/Trainee--w-m-d--Engineering-Automotive_JR125779-1",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=rhenus-logistics&url=https%3A%2F%2Frhe.wd3.myworkdayjobs.com%2FR1111%2Fjob%2FEssen-Germany%2FTrainee--w-m-d--Engineering-Automotive_JR125779-1",
       "source": "workday"
@@ -192,7 +192,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main, HE, Germany",
       "posted": "2026-05-26T09:07:30.427Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128435879",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128435879",
       "source": "smartrecruiters"
@@ -204,7 +204,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main, HE, Germany",
       "posted": "2026-05-26T09:04:00.893Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128432434",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128432434",
       "source": "smartrecruiters"
@@ -216,7 +216,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main, , Germany",
       "posted": "2026-10-15T14:48:55.406Z",
-      "posted_days_ago": 29,
+      "posted_days_ago": 30,
       "raw_url": "https://jobs.smartrecruiters.com/turnertownsend/744000155780091",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=turner-townsend&url=https%3A%2F%2Fjobs.smartrecruiters.com%2Fturnertownsend%2F744000155780091",
       "source": "smartrecruiters"
@@ -228,7 +228,7 @@
       "city": "Frankfurt",
       "location": "Germany - Frankfurt / Germany - Frankfurt",
       "posted": "2026-08-28T19:18:55.144Z",
-      "posted_days_ago": 77,
+      "posted_days_ago": 78,
       "raw_url": "https://jobs.lever.co/veeva/909610da-99da-4e58-89a8-e3a0e998e6b7",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=veeva&url=https%3A%2F%2Fjobs.lever.co%2Fveeva%2F909610da-99da-4e58-89a8-e3a0e998e6b7",
       "source": "lever"
@@ -240,7 +240,7 @@
       "city": "Frankfurt",
       "location": "Germany - Frankfurt / Germany - Frankfurt",
       "posted": "2026-03-24T18:56:40.351Z",
-      "posted_days_ago": 234,
+      "posted_days_ago": 235,
       "raw_url": "https://jobs.lever.co/veeva/7af7a2cf-707c-4791-bb3d-9b7e6ff81903",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=veeva&url=https%3A%2F%2Fjobs.lever.co%2Fveeva%2F7af7a2cf-707c-4791-bb3d-9b7e6ff81903",
       "source": "lever"
@@ -252,7 +252,7 @@
       "city": "Freiburg",
       "location": "Freiburg im Breisgau, BW, Germany",
       "posted": "2026-10-22T07:42:32.066Z",
-      "posted_days_ago": 22,
+      "posted_days_ago": 23,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000157055924",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000157055924",
       "source": "smartrecruiters"
@@ -264,7 +264,7 @@
       "city": "Freiburg",
       "location": "Freiburg im Breisgau, BW, Germany",
       "posted": "2026-10-22T07:28:41.552Z",
-      "posted_days_ago": 22,
+      "posted_days_ago": 23,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000157053149",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000157053149",
       "source": "smartrecruiters"
@@ -276,7 +276,7 @@
       "city": "Geneva",
       "location": "Geneva, GENEVA, Switzerland",
       "posted": "2026-11-11T11:41:13.507Z",
-      "posted_days_ago": 2,
+      "posted_days_ago": 3,
       "raw_url": "https://jobs.smartrecruiters.com/CERN/744000161068569",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=cern&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCERN%2F744000161068569",
       "source": "smartrecruiters"
@@ -288,7 +288,7 @@
       "city": "Geneva",
       "location": "Geneva, GENEVA, Switzerland",
       "posted": "2026-11-10T14:17:32.238Z",
-      "posted_days_ago": 3,
+      "posted_days_ago": 4,
       "raw_url": "https://jobs.smartrecruiters.com/CERN/744000160887379",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=cern&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCERN%2F744000160887379",
       "source": "smartrecruiters"
@@ -300,7 +300,7 @@
       "city": "Geneva",
       "location": "Geneva, GENEVA, Switzerland",
       "posted": "2026-10-26T13:55:09.162Z",
-      "posted_days_ago": 18,
+      "posted_days_ago": 19,
       "raw_url": "https://jobs.smartrecruiters.com/CERN/744000157822439",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=cern&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FCERN%2F744000157822439",
       "source": "smartrecruiters"
@@ -312,7 +312,7 @@
       "city": "Graz",
       "location": "Graz, Styria, Austria",
       "posted": "2026-10-21T20:00:04.078Z",
-      "posted_days_ago": 23,
+      "posted_days_ago": 24,
       "raw_url": "https://jobs.smartrecruiters.com/AntonPaar1/744000156883679",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=anton-paar&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FAntonPaar1%2F744000156883679",
       "source": "smartrecruiters"
@@ -324,7 +324,7 @@
       "city": "Graz",
       "location": "Graz, Styria, Austria",
       "posted": "2026-10-21T19:58:11.521Z",
-      "posted_days_ago": 23,
+      "posted_days_ago": 24,
       "raw_url": "https://jobs.smartrecruiters.com/AntonPaar1/744000156883229",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=anton-paar&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FAntonPaar1%2F744000156883229",
       "source": "smartrecruiters"
@@ -335,23 +335,11 @@
       "type": "Junior",
       "city": "Graz",
       "location": "Graz, Steiermark",
-      "posted": "2026-11-07T07:16:32Z",
-      "posted_days_ago": 6,
-      "raw_url": "https://www.adzuna.at/details/5956568563?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=anton-paar-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5956568563%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
-      "source": "adzuna"
-    },
-    {
-      "company": "Accenture",
-      "title": "(Junior) Generative AI Engineer (all genders)",
-      "type": "Junior",
-      "city": "Hamburg",
-      "location": "Hamburg",
-      "posted": "2026-11-12T12:42:35.935Z",
+      "posted": "2026-11-13T19:00:52Z",
       "posted_days_ago": 1,
-      "raw_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hamburg/XMLNAME--Junior--Generative-AI-Engineer--all-genders-_R00368889",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=accenture&url=https%3A%2F%2Faccenture.wd103.myworkdayjobs.com%2FAccentureCareers%2Fjob%2FHamburg%2FXMLNAME--Junior--Generative-AI-Engineer--all-genders-_R00368889",
-      "source": "workday"
+      "raw_url": "https://www.adzuna.at/details/5964868756?utm_medium=api&utm_source=8efdd1b9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=anton-paar-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5964868756%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
+      "source": "adzuna"
     },
     {
       "company": "Drees & Sommer SE",
@@ -360,7 +348,7 @@
       "city": "Hamburg",
       "location": "Hamburg, HH, Germany",
       "posted": "2026-05-26T09:07:37.033Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128435919",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128435919",
       "source": "smartrecruiters"
@@ -372,7 +360,7 @@
       "city": "Hamburg",
       "location": "Hamburg, HH, Germany",
       "posted": "2026-05-26T09:04:08.561Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128433201",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128433201",
       "source": "smartrecruiters"
@@ -384,7 +372,7 @@
       "city": "Hamburg",
       "location": "Hamburg, HH, Germany",
       "posted": "2026-10-30T15:00:19.444Z",
-      "posted_days_ago": 14,
+      "posted_days_ago": 15,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158771279",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000158771279",
       "source": "smartrecruiters"
@@ -396,7 +384,7 @@
       "city": "Hamburg",
       "location": "Hamburg, Europe, Germany",
       "posted": "2026-10-14T08:21:56.295Z",
-      "posted_days_ago": 30,
+      "posted_days_ago": 31,
       "raw_url": "https://jobs.smartrecruiters.com/turnertownsend/744000155438559",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=turner-townsend&url=https%3A%2F%2Fjobs.smartrecruiters.com%2Fturnertownsend%2F744000155438559",
       "source": "smartrecruiters"
@@ -408,7 +396,7 @@
       "city": "Leipzig",
       "location": "Leipzig, SN, Germany",
       "posted": "2026-05-26T09:07:43.640Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128433640",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128433640",
       "source": "smartrecruiters"
@@ -420,7 +408,7 @@
       "city": "Leipzig",
       "location": "Leipzig, SN, Germany",
       "posted": "2026-05-26T09:04:14.650Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128435199",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128435199",
       "source": "smartrecruiters"
@@ -432,7 +420,7 @@
       "city": "Linz",
       "location": "Linz, Oberösterreich, Austria",
       "posted": "2026-11-12T10:31:16.808Z",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161264626",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161264626",
       "source": "smartrecruiters"
@@ -444,7 +432,7 @@
       "city": "Munich",
       "location": "Munich, Germany",
       "posted": "2026-06-17T09:57:15-04:00",
-      "posted_days_ago": 149,
+      "posted_days_ago": 150,
       "raw_url": "https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=celonis&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fcelonis%2Fjobs%2F7627719003%3Fgh_jid%3D7627719003",
       "source": "greenhouse"
@@ -456,7 +444,7 @@
       "city": "Munich",
       "location": "Düsseldorf, DE / München, DE",
       "posted": "2026-09-25T11:15:19+02:00",
-      "posted_days_ago": 49,
+      "posted_days_ago": 50,
       "raw_url": "https://huaweidusseldorf-1719303222.teamtailor.com/jobs/8454347-junior-service-engineer-for-smart-pv-business-m-f-d-graduate-program",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=huawei-europe&url=https%3A%2F%2Fhuaweidusseldorf-1719303222.teamtailor.com%2Fjobs%2F8454347-junior-service-engineer-for-smart-pv-business-m-f-d-graduate-program",
       "source": "teamtailor"
@@ -468,7 +456,7 @@
       "city": "Munich",
       "location": "Munich, BY, Germany",
       "posted": "2026-07-10T11:19:44.633Z",
-      "posted_days_ago": 126,
+      "posted_days_ago": 127,
       "raw_url": "https://jobs.smartrecruiters.com/brainlab/744000137106040",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=brainlab&url=https%3A%2F%2Fjobs.smartrecruiters.com%2Fbrainlab%2F744000137106040",
       "source": "smartrecruiters"
@@ -480,9 +468,21 @@
       "city": "Münster",
       "location": "Münster, NRW, Germany",
       "posted": "2026-08-20T13:28:18.689Z",
-      "posted_days_ago": 85,
+      "posted_days_ago": 86,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000144557329",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000144557329",
+      "source": "smartrecruiters"
+    },
+    {
+      "company": "Bosch Group",
+      "title": "Graduate Specialist Program (Trainee) – Data-driven Operations and Supply Chain",
+      "type": "Absolvent",
+      "city": "Other DACH",
+      "location": "Wetzlar, HE, Germany",
+      "posted": "2026-11-13T13:01:01.599Z",
+      "posted_days_ago": 1,
+      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161479679",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161479679",
       "source": "smartrecruiters"
     },
     {
@@ -492,21 +492,9 @@
       "city": "Other DACH",
       "location": "Wetzlar, HE, Germany",
       "posted": "2026-11-06T10:13:20.413Z",
-      "posted_days_ago": 7,
+      "posted_days_ago": 8,
       "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000160161030",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000160161030",
-      "source": "smartrecruiters"
-    },
-    {
-      "company": "Bosch Group",
-      "title": "Graduate Specialist Program (Trainee) – Data-driven Operations and Supply Chain",
-      "type": "Absolvent",
-      "city": "Other DACH",
-      "location": "Wetzlar, HE, Germany",
-      "posted": "2026-11-06T10:11:31.307Z",
-      "posted_days_ago": 7,
-      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000160161044",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000160161044",
       "source": "smartrecruiters"
     },
     {
@@ -516,33 +504,9 @@
       "city": "Other DACH",
       "location": "bundesweit, , Germany",
       "posted": "2026-10-29T16:31:00.941Z",
-      "posted_days_ago": 15,
+      "posted_days_ago": 16,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158566241",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000158566241",
-      "source": "smartrecruiters"
-    },
-    {
-      "company": "Bosch Group",
-      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Information Technology",
-      "type": "Junior",
-      "city": "Other DACH",
-      "location": "Gerlingen-Schillerhöhe, BW, Germany",
-      "posted": "2026-11-11T12:43:37.698Z",
-      "posted_days_ago": 2,
-      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161077414",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161077414",
-      "source": "smartrecruiters"
-    },
-    {
-      "company": "Bosch Group",
-      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich IT",
-      "type": "Junior",
-      "city": "Other DACH",
-      "location": "Gerlingen-Schillerhöhe, BW, Germany",
-      "posted": "2026-11-11T12:39:35.270Z",
-      "posted_days_ago": 2,
-      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161075623",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161075623",
       "source": "smartrecruiters"
     },
     {
@@ -551,10 +515,10 @@
       "type": "Junior",
       "city": "Other DACH",
       "location": "Gerlingen, BW, Germany",
-      "posted": "2026-11-11T12:18:42.577Z",
-      "posted_days_ago": 2,
-      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161072680",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161072680",
+      "posted": "2026-11-13T14:51:07.175Z",
+      "posted_days_ago": 1,
+      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161504420",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161504420",
       "source": "smartrecruiters"
     },
     {
@@ -563,10 +527,34 @@
       "type": "Junior",
       "city": "Other DACH",
       "location": "Gerlingen, BW, Germany",
-      "posted": "2026-11-11T12:17:40.946Z",
-      "posted_days_ago": 2,
-      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161071861",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161071861",
+      "posted": "2026-11-13T14:50:28.563Z",
+      "posted_days_ago": 1,
+      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161505429",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161505429",
+      "source": "smartrecruiters"
+    },
+    {
+      "company": "Bosch Group",
+      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Information Technology",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Gerlingen-Schillerhöhe, BW, Germany",
+      "posted": "2026-11-13T14:46:56.783Z",
+      "posted_days_ago": 1,
+      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161505377",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161505377",
+      "source": "smartrecruiters"
+    },
+    {
+      "company": "Bosch Group",
+      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich IT",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Gerlingen-Schillerhöhe, BW, Germany",
+      "posted": "2026-11-13T14:46:28.731Z",
+      "posted_days_ago": 1,
+      "raw_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161503423",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=bosch-group&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FBoschGroup%2F744000161503423",
       "source": "smartrecruiters"
     },
     {
@@ -576,7 +564,7 @@
       "city": "Other DACH",
       "location": "Epalinges, CH",
       "posted": "2026-07-01T14:27:16+02:00",
-      "posted_days_ago": 135,
+      "posted_days_ago": 136,
       "raw_url": "https://dexterousendoscopes.teamtailor.com/jobs/8002417-junior-r-d-engineer",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=dexterous-endoscopes-s-rl&url=https%3A%2F%2Fdexterousendoscopes.teamtailor.com%2Fjobs%2F8002417-junior-r-d-engineer",
       "source": "teamtailor"
@@ -588,7 +576,7 @@
       "city": "Other DACH",
       "location": "Epalinges, CH",
       "posted": "2026-07-01T14:02:00+02:00",
-      "posted_days_ago": 135,
+      "posted_days_ago": 136,
       "raw_url": "https://dexterousendoscopes.teamtailor.com/jobs/8002206-junior-manufacturing-engineer",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=dexterous-endoscopes-s-rl&url=https%3A%2F%2Fdexterousendoscopes.teamtailor.com%2Fjobs%2F8002206-junior-manufacturing-engineer",
       "source": "teamtailor"
@@ -600,7 +588,7 @@
       "city": "Other DACH",
       "location": "Germany / Germany",
       "posted": "2026-10-07T08:10:31.356Z",
-      "posted_days_ago": 37,
+      "posted_days_ago": 38,
       "raw_url": "https://jobs.lever.co/finn/d5c89c2e-6d11-4666-83ca-2abb7d3a465a",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=finn&url=https%3A%2F%2Fjobs.lever.co%2Ffinn%2Fd5c89c2e-6d11-4666-83ca-2abb7d3a465a",
       "source": "lever"
@@ -612,34 +600,10 @@
       "city": "Other DACH",
       "location": "Deutschland",
       "posted": "2021-02-18T14:03:09+00:00",
-      "posted_days_ago": 2094,
+      "posted_days_ago": 2095,
       "raw_url": "https://gambit.jobs.personio.de/job/323814",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=gambit-jobs-personio-com&url=https%3A%2F%2Fgambit.jobs.personio.de%2Fjob%2F323814",
       "source": "personio"
-    },
-    {
-      "company": "Hitachi",
-      "title": "Trainee Engineering (w/m/d)",
-      "type": "Junior",
-      "city": "Other DACH",
-      "location": "Bad Honnef, North Rhine-Westphalia, Germany",
-      "posted": "2026-10-14T12:42:30.085Z",
-      "posted_days_ago": 30,
-      "raw_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bad-Honnef-North-Rhine-Westphalia-Germany/Trainee-Engineering--w-m-d-_R0138614",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=hitachi&url=https%3A%2F%2Fhitachi.wd1.myworkdayjobs.com%2Fhitachi%2Fjob%2FBad-Honnef-North-Rhine-Westphalia-Germany%2FTrainee-Engineering--w-m-d-_R0138614",
-      "source": "workday"
-    },
-    {
-      "company": "Johnson & Johnson / Janssen",
-      "title": "Trainee Qualitätssicherung (QA) – Parenterale Produkte",
-      "type": "Junior",
-      "city": "Other DACH",
-      "location": "Schaffhausen, Switzerland",
-      "posted": "2026-11-12T12:42:19.183Z",
-      "posted_days_ago": 1,
-      "raw_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Trainee-Qualittssicherung--QA----Parenterale-Produkte_R-107564",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=johnson-johnson-janssen&url=https%3A%2F%2Fjj.wd5.myworkdayjobs.com%2FJJ%2Fjob%2FSchaffhausen-Switzerland%2FTrainee-Qualittssicherung--QA----Parenterale-Produkte_R-107564",
-      "source": "workday"
     },
     {
       "company": "Rhenus Logistics",
@@ -647,8 +611,8 @@
       "type": "Junior",
       "city": "Other DACH",
       "location": "Hilden, Germany",
-      "posted": "2026-11-09T12:42:40.148Z",
-      "posted_days_ago": 4,
+      "posted": "2026-11-09T11:51:04.123Z",
+      "posted_days_ago": 5,
       "raw_url": "https://rhe.wd3.myworkdayjobs.com/R1111/job/Hilden-Germany/XMLNAME--Junior--Automation-Developer-RPA_JR127034",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=rhenus-logistics&url=https%3A%2F%2Frhe.wd3.myworkdayjobs.com%2FR1111%2Fjob%2FHilden-Germany%2FXMLNAME--Junior--Automation-Developer-RPA_JR127034",
       "source": "workday"
@@ -660,7 +624,7 @@
       "city": "Other DACH",
       "location": "bundesweit, , Germany",
       "posted": "2026-11-01T08:02:52.959Z",
-      "posted_days_ago": 12,
+      "posted_days_ago": 13,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158966339",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000158966339",
       "source": "smartrecruiters"
@@ -672,7 +636,7 @@
       "city": "Other DACH",
       "location": "bundesweit, , Germany",
       "posted": "2026-10-16T11:23:54.496Z",
-      "posted_days_ago": 28,
+      "posted_days_ago": 29,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155972459",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000155972459",
       "source": "smartrecruiters"
@@ -684,7 +648,7 @@
       "city": "Other DACH",
       "location": "Manching, BY, Germany",
       "posted": "2026-07-01T08:38:13.722Z",
-      "posted_days_ago": 135,
+      "posted_days_ago": 136,
       "raw_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135205319",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=sopra-steria&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FSopraSteria1%2F744000135205319",
       "source": "smartrecruiters"
@@ -696,7 +660,7 @@
       "city": "Other DACH",
       "location": "Marktheidenfeld, BY, Germany",
       "posted": "2026-06-30T06:26:12.593Z",
-      "posted_days_ago": 136,
+      "posted_days_ago": 137,
       "raw_url": "https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000134935878",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=warema-renkhoff-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FWAREMARenkhoffSE%2F744000134935878",
       "source": "smartrecruiters"
@@ -708,7 +672,7 @@
       "city": "Other DACH",
       "location": "Marktheidenfeld, BY, Germany",
       "posted": "2026-06-30T06:18:49.993Z",
-      "posted_days_ago": 136,
+      "posted_days_ago": 137,
       "raw_url": "https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000134933754",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=warema-renkhoff-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FWAREMARenkhoffSE%2F744000134933754",
       "source": "smartrecruiters"
@@ -720,7 +684,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart, BW, Germany",
       "posted": "2026-11-05T12:01:01.288Z",
-      "posted_days_ago": 8,
+      "posted_days_ago": 9,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000159850424",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000159850424",
       "source": "smartrecruiters"
@@ -732,7 +696,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart, BW, Germany",
       "posted": "2026-05-26T09:07:27.499Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128435220",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128435220",
       "source": "smartrecruiters"
@@ -744,7 +708,7 @@
       "city": "Stuttgart",
       "location": "Stuttgart, BW, Germany",
       "posted": "2026-05-26T09:03:52.337Z",
-      "posted_days_ago": 171,
+      "posted_days_ago": 172,
       "raw_url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000128433651",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=drees-sommer-se&url=https%3A%2F%2Fjobs.smartrecruiters.com%2FDreesSommerSE%2F744000128433651",
       "source": "smartrecruiters"
@@ -756,7 +720,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-11-05T02:01:50Z",
-      "posted_days_ago": 8,
+      "posted_days_ago": 9,
       "raw_url": "https://www.adzuna.ch/details/5953537555?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5953537555%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
       "source": "adzuna"
@@ -768,22 +732,10 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-11-02T11:53:49Z",
-      "posted_days_ago": 11,
-      "raw_url": "https://www.adzuna.ch/land/ad/5950482071?se=7LWdxF_f8RG4C6OUcpONzw&utm_medium=api&utm_source=8efdd1b9&v=693B8B767ECB1492B7757E2258CCD2921234D6A5",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5950482071%3Fse%3D7LWdxF_f8RG4C6OUcpONzw%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D693B8B767ECB1492B7757E2258CCD2921234D6A5",
+      "posted_days_ago": 12,
+      "raw_url": "https://www.adzuna.ch/land/ad/5950482071?se=Ap5QuiHg8RG3UKJUaLg__w&utm_medium=api&utm_source=8efdd1b9&v=693B8B767ECB1492B7757E2258CCD2921234D6A5",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=freestar-informatik-ag&url=https%3A%2F%2Fwww.adzuna.ch%2Fland%2Fad%2F5950482071%3Fse%3DAp5QuiHg8RG3UKJUaLg__w%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D693B8B767ECB1492B7757E2258CCD2921234D6A5",
       "source": "adzuna"
-    },
-    {
-      "company": "Hitachi",
-      "title": "Junior Secondary Design Engineer 80 – 100% (f/m/d)",
-      "type": "Junior",
-      "city": "Zurich",
-      "location": "Zurich, Zurich, Switzerland",
-      "posted": "2026-10-22T12:42:30.086Z",
-      "posted_days_ago": 22,
-      "raw_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zurich-Zurich-Switzerland/Secondary-Design-Engineer-80---100---f-m-d-_R0133741",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=hitachi&url=https%3A%2F%2Fhitachi.wd1.myworkdayjobs.com%2Fhitachi%2Fjob%2FZurich-Zurich-Switzerland%2FSecondary-Design-Engineer-80---100---f-m-d-_R0133741",
-      "source": "workday"
     },
     {
       "company": "Job-Room",
@@ -792,7 +744,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-11-02T17:30:28Z",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://www.adzuna.ch/details/5950779218?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=job-room&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5950779218%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
       "source": "adzuna"
@@ -804,7 +756,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-11-09T02:15:33Z",
-      "posted_days_ago": 4,
+      "posted_days_ago": 5,
       "raw_url": "https://www.adzuna.ch/details/5958608258?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=mybikeplan&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5958608258%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
       "source": "adzuna"
@@ -816,7 +768,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-10-26T15:16:38Z",
-      "posted_days_ago": 18,
+      "posted_days_ago": 19,
       "raw_url": "https://www.adzuna.ch/details/5942259472?utm_medium=api&utm_source=8efdd1b9",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=nexoya&url=https%3A%2F%2Fwww.adzuna.ch%2Fdetails%2F5942259472%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9",
       "source": "adzuna"
@@ -828,7 +780,7 @@
       "city": "Zurich",
       "location": "Zürich",
       "posted": "2026-07-01T11:38:46+00:00",
-      "posted_days_ago": 135,
+      "posted_days_ago": 136,
       "raw_url": "https://westhouse.jobs.personio.de/job/2693771",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=absolventen-tech-jobs-dach&company=westhouse-schweiz&url=https%3A%2F%2Fwesthouse.jobs.personio.de%2Fjob%2F2693771",
       "source": "personio"
